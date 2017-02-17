@@ -1,0 +1,8 @@
+uni Up
+uni Left
+uni Neutral
+uni Down
+kk Neutral
+kk Right
+basiq Up
+basiq Neutral

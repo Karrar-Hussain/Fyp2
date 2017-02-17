@@ -1,0 +1,39 @@
+c:\users\vashdev heerani\documents\visual studio 2015\Projects\FYP1\FYP1\bin\Debug\FYP1.exe.config
+c:\users\vashdev heerani\documents\visual studio 2015\Projects\FYP1\FYP1\bin\Debug\FYP1.exe
+c:\users\vashdev heerani\documents\visual studio 2015\Projects\FYP1\FYP1\bin\Debug\FYP1.pdb
+c:\users\vashdev heerani\documents\visual studio 2015\Projects\FYP1\FYP1\obj\Debug\FYP1.Form1.resources
+c:\users\vashdev heerani\documents\visual studio 2015\Projects\FYP1\FYP1\obj\Debug\FYP1.Properties.Resources.resources
+c:\users\vashdev heerani\documents\visual studio 2015\Projects\FYP1\FYP1\obj\Debug\FYP1.csproj.GenerateResource.Cache
+c:\users\vashdev heerani\documents\visual studio 2015\Projects\FYP1\FYP1\obj\Debug\FYP1.exe
+c:\users\vashdev heerani\documents\visual studio 2015\Projects\FYP1\FYP1\obj\Debug\FYP1.pdb
+c:\users\vashdev heerani\documents\visual studio 2015\Projects\FYP1\FYP1\obj\Debug\FYP1.csprojResolveAssemblyReference.cache
+C:\Users\Vashdev Heerani\documents\visual studio 2015\Projects\FYP1\FYP1\bin\Debug\DotNetEmotivSDK.dll
+C:\Users\Vashdev Heerani\documents\visual studio 2015\Projects\FYP1\FYP1\bin\Debug\edk.dll
+C:\Users\Vashdev Heerani\documents\visual studio 2015\Projects\FYP1\FYP1\obj\Debug\Interop.Shell32.dll
+C:\Users\Vashdev Heerani\documents\visual studio 2015\Projects\FYP1\FYP1\obj\Debug\FYP1.csproj.ResolveComReference.cache
+C:\Users\Karrar\Documents\Visual Studio 2015\Projects\FYP1\FYP1\obj\Debug\FYP1.csprojResolveAssemblyReference.cache
+C:\Users\Karrar\Documents\Visual Studio 2015\Projects\FYP1\FYP1\obj\Debug\Interop.MLApp.dll
+C:\Users\Karrar\Documents\Visual Studio 2015\Projects\FYP1\FYP1\obj\Debug\Interop.Shell32.dll
+C:\Users\Karrar\Documents\Visual Studio 2015\Projects\FYP1\FYP1\obj\Debug\FYP1.csproj.ResolveComReference.cache
+C:\Users\Karrar\Documents\Visual Studio 2015\Projects\FYP1\FYP1\obj\Debug\FYP1.Form1.resources
+C:\Users\Karrar\Documents\Visual Studio 2015\Projects\FYP1\FYP1\obj\Debug\FYP1.Properties.Resources.resources
+C:\Users\Karrar\Documents\Visual Studio 2015\Projects\FYP1\FYP1\obj\Debug\FYP1.csproj.GenerateResource.Cache
+C:\Users\Karrar\Documents\Visual Studio 2015\Projects\FYP1\FYP1\bin\Debug\FYP1.exe.config
+C:\Users\Karrar\Documents\Visual Studio 2015\Projects\FYP1\FYP1\bin\Debug\DotNetEmotivSDK.dll
+C:\Users\Karrar\Documents\Visual Studio 2015\Projects\FYP1\FYP1\bin\Debug\edk.dll
+C:\Users\Karrar\Documents\Visual Studio 2015\Projects\FYP1\FYP1\bin\Debug\FYP1.exe
+C:\Users\Karrar\Documents\Visual Studio 2015\Projects\FYP1\FYP1\bin\Debug\FYP1.pdb
+C:\Users\Karrar\Documents\Visual Studio 2015\Projects\FYP1\FYP1\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\Users\Karrar\Documents\Visual Studio 2015\Projects\FYP1\FYP1\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\Karrar\Documents\Visual Studio 2015\Projects\FYP1\FYP1\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Users\Karrar\Documents\Visual Studio 2015\Projects\FYP1\FYP1\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\Users\Karrar\Documents\Visual Studio 2015\Projects\FYP1\FYP1\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\Karrar\Documents\Visual Studio 2015\Projects\FYP1\FYP1\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\Karrar\Documents\Visual Studio 2015\Projects\FYP1\FYP1\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Users\Karrar\Documents\Visual Studio 2015\Projects\FYP1\FYP1\bin\Debug\IKVM.Runtime.dll
+C:\Users\Karrar\Documents\Visual Studio 2015\Projects\FYP1\FYP1\bin\Debug\libsvm.dll
+C:\Users\Karrar\Documents\Visual Studio 2015\Projects\FYP1\FYP1\bin\Debug\LIBSVM.NET.dll
+C:\Users\Karrar\Documents\Visual Studio 2015\Projects\FYP1\FYP1\bin\Debug\LibSVMsharp.dll
+C:\Users\Karrar\Documents\Visual Studio 2015\Projects\FYP1\FYP1\bin\Debug\LibSVMsharp.pdb
+C:\Users\Karrar\Documents\Visual Studio 2015\Projects\FYP1\FYP1\obj\Debug\FYP1.exe
+C:\Users\Karrar\Documents\Visual Studio 2015\Projects\FYP1\FYP1\obj\Debug\FYP1.pdb
